@@ -1,0 +1,8 @@
+I am Ehsan and welcome to coding universe
+I am witing in examle.txt file
+I am appending more content in existing file
+First line
+Second line
+Third line
+Its just line
+Its just line

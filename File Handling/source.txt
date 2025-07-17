@@ -1,0 +1,41 @@
+File Handling in Programming
+
+File handling is a crucial aspect of programming that allows us to work with files on a computer system. It enables us to perform various operations such as reading from files, writing to files, and managing file data.
+
+Key Concepts in File Handling:
+
+1. File Opening
+   - Files must be opened before they can be accessed
+   - Different modes are available: read, write, append
+   - Always remember to close files after use
+
+2. Reading Files
+   - Can read entire file content at once
+   - Can read line by line
+   - Useful for processing large data files
+
+3. Writing Files
+   - Creates new files or overwrites existing ones
+   - Can write text or data in specific formats
+   - Important for saving program output
+
+4. File Management
+   - Checking if files exist
+   - Deleting files
+   - Moving or renaming files
+   - Managing file permissions
+
+Common File Operations:
+- Creating new files
+- Reading existing files
+- Updating file content
+- Deleting files
+- Checking file status
+- Error handling during file operations
+
+Best Practices:
+- Always close files after use
+- Use proper error handling
+- Back up important files
+- Check file permissions
+- Use appropriate file modes
